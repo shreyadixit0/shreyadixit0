@@ -6,6 +6,6 @@
 👯 I’m looking to collaborate on frontend and UI/UX design projects.  
 🎯 Always learning, building, and improving.  
 📫 Let's connect!! 
-- 🔗 LinkedIn: https://www.linkedin.com/in/shreya0
-- 📧 Email: shreyadixit973@gmail.com  
-- 🌐 Portfolio: Coming Soon!!
+🔗 LinkedIn: https://www.linkedin.com/in/shreya0
+📧 Email: shreyadixit973@gmail.com  
+🌐 Portfolio: Coming Soon!!
