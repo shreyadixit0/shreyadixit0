@@ -8,5 +8,4 @@
 📫 Let's connect!! 
   - 🔗 LinkedIn: https://www.linkedin.com/in/shreya0 
   - 📧 Email: shreyadixit973@gmail.com  
-  - 🌐 Portfolio: Coming Soon!!
-
+  - 🌐 Portfolio: https://shreya-dixit-portfolio.vercel.app/
